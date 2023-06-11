@@ -1,5 +1,9 @@
 # Finalia-Mods
 You'll need to download these Mods/Versions independently due to GitHub size restrictions:
+https://www.curseforge.com/minecraft/mc-mods/advent-of-ascension-nevermine/files/4357486
+https://www.curseforge.com/minecraft/mc-mods/public-transport-mod/files
+https://www.curseforge.com/minecraft/mc-mods/blue-skies/files/4311685
+
 AoA3-1.19.3-3.6.21
 
 transportmod-12.1.7-1.19.3

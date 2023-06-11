@@ -1,5 +1,9 @@
 # Finalia-Mods
 
+You'll first need Java 17 JDK:
+https://download.oracle.com/java/17/latest/jdk-17_windows-x64_bin.exe
+
+
 In order to access you need to use the forge 1.19.3 version located here:
 https://files.minecraftforge.net/net/minecraftforge/forge/index_1.19.3.html
 
